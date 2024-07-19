@@ -3,7 +3,7 @@ pymongo[srv]
 dnspython==2.6.1
 pandas==2.0.3
 numpy==1.24.4
-ensure==1.0.4
+ensure
 pytest==7.1.3
 -e .
 
